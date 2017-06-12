@@ -1,0 +1,30 @@
+#cabecera{
+    background-color:aqua;
+}
+
+nav{
+    background-color:coral;
+}
+
+#barralateral{
+    background-color: darkgoldenrod;
+    float:left;
+    height:850px;
+}
+
+#contenidoprincipal{    
+    background-color:antiquewhite;
+    margin-left:200px;
+    padding-left:20px;
+    padding-top:10px;
+}
+
+#pieprincipal{
+    background-color:darkmagenta;
+    clear:both;
+}
+
+li {
+    background-color:deeppink;
+    display:inline;
+}
